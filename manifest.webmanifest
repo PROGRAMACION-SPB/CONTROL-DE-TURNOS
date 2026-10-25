@@ -1,0 +1,18 @@
+{
+  "name": "Control de Turnos SPB",
+  "short_name": "Turnos SPB",
+  "description": "Programación y control de turnos – Sociedad Portuaria Buenaventura",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3F7FB",
+  "theme_color": "#0058A8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
